@@ -1,3 +1,5 @@
+# TechInterviews
+
 This repository was created based on tech interviews.
 
 Feel free to contribute, discuss and enumerate anything you find relevant!
